@@ -1,0 +1,118 @@
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe.config
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\AppQLBV.pdb
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.AssemblyReference.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.Properties.Resources.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.GenerateResource.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CoreCompileInputs.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.exe
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.pdb
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.DangNhap.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.GiaoDienChinh.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Buffers.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Memory.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Buffers.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Memory.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CopyComplete
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.CSYT_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBADV_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBN_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\PhanHe2\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSNV_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe.config
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Buffers.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Memory.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.dll
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Buffers.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Memory.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.xml
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienCSYT.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.CSYT_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmDangNhap.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBADV_CSYT.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBADV_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_CSYT.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_HSBADV_YBS.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBN_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBN_YBS.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSNV_ThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienThanhTra.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.Properties.Resources.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienYBS.resources
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.GenerateResource.cache
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CoreCompileInputs.cache
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CopyComplete
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.exe
+C:\Users\Huong Lan\Videos\New folder\AppQLBV\AppQLBV\obj\Debug\AppQLBV.pdb
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe.config
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\AppQLBV.exe
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\AppQLBV.pdb
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Buffers.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Memory.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.dll
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Buffers.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Memory.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Numerics.Vectors.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Text.Encodings.Web.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Text.Json.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\bin\Debug\System.ValueTuple.xml
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.AssemblyReference.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienCSYT.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.CSYT_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmDangNhap.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBADV_CSYT.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBADV_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_CSYT.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_HSBADV_YBS.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBA_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBN_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSBN_YBS.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.HSNV_ThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienThanhTra.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.Properties.Resources.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.frmGiaoDienYBS.resources
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.GenerateResource.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CoreCompileInputs.cache
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.csproj.CopyComplete
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.exe
+D:\HCMUS\HK2-Nam3\ATBM-HTTT\Source-20220511T121337Z-001\Source\AppQLBV\AppQLBV\obj\Debug\AppQLBV.pdb
